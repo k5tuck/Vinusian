@@ -1,6 +1,6 @@
 [submodule "client"]
 	path = client
-	url = ./client
+	url = https://github.com/k5tuck/Vinusian_Client
 [submodule "server"]
 	path = server
-	url = ./server/
+	url = https://github.com/k5tuck/Vinusian_Server
